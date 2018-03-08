@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'QXArrangeView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of QXArrangeView.'
+  s.summary          = 'iPhone桌面式可移动Cell的collectionview'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

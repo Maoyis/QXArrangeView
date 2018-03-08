@@ -8,6 +8,7 @@
 
 #import "QXAppDelegate.h"
 
+
 @implementation QXAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

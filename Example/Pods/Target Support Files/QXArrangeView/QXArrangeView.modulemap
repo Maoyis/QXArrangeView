@@ -1,0 +1,6 @@
+framework module QXArrangeView {
+  umbrella header "QXArrangeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
